@@ -9,4 +9,5 @@ Hola, Soy Javier, un ingeniero informatico de la Universitat Politécnica de Val
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaviMGG&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviMGG) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviMGG&layout=compact&cache_seconds=60)
+
