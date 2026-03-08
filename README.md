@@ -1,15 +1,8 @@
-
-# Perfil de Javier
-
-For those who come after.
-
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=¡Hola!+👋+Soy+Javier+Morales;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=¡Hola,+soy+Javier+Morales!;" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Desarrollador chill 🚀</h3>
+<h3 align="center">🕙For those who come after. 🕛</h3>
 
 <p align="center">
   <a href="https://github.com/JaviMGG"><img src="https://img.shields.io/github/followers/JaviMGG?label=Followers&style=social" alt="GitHub Badge"></a>
