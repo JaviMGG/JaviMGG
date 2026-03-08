@@ -1,7 +1,9 @@
 
 # Perfil de Javier
 
-Hi UPV :)
+For those who come after.
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=¡Hola!+👋+Soy+Javier+Morales;" alt="Typing SVG" />
@@ -64,14 +66,6 @@ const JaviMGG = {
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-### 💡 Frase del día
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 ---
 
