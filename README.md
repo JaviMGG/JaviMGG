@@ -46,12 +46,21 @@ const JaviMGG = {
 
 ### 🔥 Proyectos Destacados
 
-<div align="center">
 
-[![lucy-edgerunner-theme](https://github-readme-stats.vercel.app/api/pin/?username=JaviMGG&repo=lucy-edgerunner&theme=tokyonight&hide_border=true)](https://github.com/JaviMGG/lucy-edgerunner)
-[![Tutorial-Lenguajes](https://github-readme-stats.vercel.app/api/pin/?username=JaviMGG&repo=Tutorial-Lenguajes&theme=tokyonight&hide_border=true)](https://github.com/JaviMGG/Tutorial-Lenguajes)
-
-</div>
+ <p align="center">
+  <a href="https://github.com/JaviMGG/Lucy-Edgerunner">
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Lucy-Edgerunner&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/JaviMGG/Alicia-Expedition-33">
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Alicia-Expedition-33&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/JaviMGG/Tutorial-Lenguajes">
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Tutorial-Lenguajes&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/JaviMGG/sherry">
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=sherry&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
