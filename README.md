@@ -64,10 +64,11 @@ const JaviMGG = {
 
 ---
 
-### 📈 Actividad Reciente
+### 📊 Tecnologías más usadas recientemente
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=JaviMGG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
@@ -75,8 +76,8 @@ const JaviMGG = {
 
 - 🔄 Aprender nuevas tecnologías (AI/ML)
 - 🔄 Crear contenido técnico en mi blog
-- 🔄 Mejorar mis habilidades en Cloud Computing
-- 🔄 Colaborar en proyectos innovadores
+- 🔄 Mejorar mis habilidades en desarrollo de software
+- 🔄 Mejorar mis conocimientos de patrones de diseño
 
 ---
 
