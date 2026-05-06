@@ -46,21 +46,21 @@ const JaviMGG = {
 
 ### 🔥 Proyectos Destacados
 
-
  <p align="center">
   <a href="https://github.com/JaviMGG/Lucy-Edgerunner">
-    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Lucy-Edgerunner&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Lucy-Edgerunner&theme=tokyonight&hide_border=true&v=1&hide_langs=true" />
   </a>
   <a href="https://github.com/JaviMGG/Alicia-Expedition-33">
-    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Alicia-Expedition-33&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Alicia-Expedition-33&theme=tokyonight&hide_border=true&v=1&hide_langs=true" />
   </a>
   <a href="https://github.com/JaviMGG/Tutorial-Lenguajes">
-    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Tutorial-Lenguajes&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Tutorial-Lenguajes&theme=tokyonight&hide_border=true&v=1" />
   </a>
   <a href="https://github.com/JaviMGG/sherry">
-    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=sherry&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=sherry&theme=tokyonight&hide_border=true&v=1" />
   </a>
 </p>
+
 
 ---
 
