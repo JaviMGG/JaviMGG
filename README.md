@@ -67,7 +67,7 @@ const JaviMGG = {
 ### 📊 Tecnologías más usadas recientemente
 
 <p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=JaviMGG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=JaviMGG&layout=compact&theme=tokyonight&hide_border=true&v=1&langs_count=8" />
 </p>
 
 ---
