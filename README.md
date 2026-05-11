@@ -17,7 +17,7 @@
 const JaviMGG = {
   ubicación: "🌍 Valencia, España",
   código: ["JavaScript", "Python", "Java", "C++", "C", "C#", "ShellScript", "SQL"],
-  aprendiendo: "De todo (orientado mas a ciberseguridad)",
+  aprendiendo: ["Ingeniería de Software","Acerca de Linux y sus distribuciones"],
   hobbies: ["Aprender lenguajes", "Generar pequeños proyectos con la IA"],
 };
 ```
@@ -27,7 +27,7 @@ const JaviMGG = {
 ### 🛠️ Lenguajes y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,js,python,java,cpp,nodejs,mysql,github,vscode,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,js,python,java,rust,nodejs,mysql,powershell,git,github,vscode,visualstudio,linux,ubuntu,arch,kali,windows,azure,docker,obsidian,md,instagram,linkedin&perline=10" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ const JaviMGG = {
 ### 📊 Tecnologías más usadas recientemente
 
 <p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=JaviMGG&layout=compact&theme=tokyonight&hide_border=true&v=1&langs_count=8" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=JaviMGG&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" />
 </p>
 
 ---
