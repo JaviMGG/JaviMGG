@@ -34,13 +34,13 @@ const JaviMGG = {
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaviMGG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JaviMGG&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  </a>
+  <br>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JaviMGG&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+</p>
 
 ---
 
