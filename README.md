@@ -17,7 +17,7 @@
 const JaviMGG = {
   ubicación: "🌍 Valencia, España",
   código: ["JavaScript", "Python", "Java", "C++", "C", "C#", "ShellScript", "SQL"],
-  aprendiendo: ["Ingeniería de Software","Acerca de Linux y sus distribuciones"],
+  aprendiendo: ["Ingeniería de Software","Linux","Ciberseguridad","IA"],
   hobbies: ["Aprender lenguajes", "Generar pequeños proyectos con la IA"],
 };
 ```
@@ -35,11 +35,8 @@ const JaviMGG = {
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JaviMGG&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-  </a>
   <br>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JaviMGG&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="61%" src="https://github-readme-activity-graph.vercel.app/graph?username=JaviMGG&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -56,8 +53,8 @@ const JaviMGG = {
   <a href="https://github.com/JaviMGG/Tutorial-Lenguajes">
     <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Tutorial-Lenguajes&theme=tokyonight&hide_border=true&v=1" />
   </a>
-  <a href="https://github.com/JaviMGG/sherry">
-    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=sherry&theme=tokyonight&hide_border=true&v=1" />
+  <a href="https://github.com/JaviMGG/Gawain">
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=JaviMGG&repo=Gawain&theme=tokyonight&hide_border=true&v=1" />
   </a>
 </p>
 
@@ -74,10 +71,10 @@ const JaviMGG = {
 
 ### 🎯 Objetivos 2026
 
-- 🔄 Aprender nuevas tecnologías (AI/ML)
-- 🔄 Crear contenido técnico en mi blog
-- 🔄 Mejorar mis habilidades en desarrollo de software
-- 🔄 Mejorar mis conocimientos de patrones de diseño
+- 🔄 Aprender acerca de ciberseguridad.
+- 🔄 Aprender nuevas tecnologías (AI/ML).
+- 🔄 Crear contenido técnico en mi perfil.
+- 🔄 Mejorar mis habilidades en desarrollo de software (patrones de diseño).
 
 ---
 
