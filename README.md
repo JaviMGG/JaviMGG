@@ -32,15 +32,6 @@ const JaviMGG = {
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <br>
-  <img width="61%" src="https://github-readme-activity-graph.vercel.app/graph?username=JaviMGG&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
 ### 🔥 Proyectos Destacados
 
  <p align="center">
